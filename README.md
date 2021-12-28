@@ -6,3 +6,5 @@ Game được viết bằng thư viện pygame nên bắt buộc phải install 
 Có thể install thư viện này bằng cách gõ câu lệnh sau trong command line:
                             pip install pygame
 Chúc mọi người chơi game vui vẻ. Nếu muốn publish game này thành một file exe thì có thể sử dụng thư viện cx_Freeze để convert sang file exe
+Đường link để tải file exe của game: https://drive.google.com/file/d/13DXdbXyphLt_l4GWGF7JiYJsxV16lQ3S/view?usp=sharing
+
