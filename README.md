@@ -1,4 +1,4 @@
-# Game
+# Một vài thông tin về Game Shoot_bay_CoVy19 của mình
 Game Shoot bay CoVy19 là 1 game nho nhỏ mà mình viết với ý tưởng là dẹp bay cô vy càng sớm càng tốt. 
 
 
