@@ -14,5 +14,4 @@ Chúc mọi người chơi game vui vẻ. Nếu muốn publish game này thành 
 
 Đường link để tải file exe của game: https://drive.google.com/file/d/13DXdbXyphLt_l4GWGF7JiYJsxV16lQ3S/view?usp=sharing
 
-PS: Đây là file sau khi đã convert sang file exe nên mọi người sẽ thấy HTML chiếm phần nhiều, thật sự là game này viết hoàn toàn bằng Python
 
