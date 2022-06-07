@@ -1,17 +1,17 @@
-# Một vài thông tin về Game Shoot_bay_CoVy19 của mình
-Game Shoot bay CoVy19 là 1 game nho nhỏ mà mình viết với ý tưởng là dẹp bay cô vy càng sớm càng tốt. 
+# Some Info about Shoot_bay_CoVy19 game
+Game Shoot bay CoVy19 is my little game which is entirely code by me. The idea of this game start from my hopping to Covid19 get out as soon as posible
 
 Video Demo: https://www.youtube.com/watch?v=qfJf5lcPdEw&t=151s
 
 -- REQUIREMENT OF ENVIRONMENT -- 
-
-Game được viết bằng thư viện pygame nên bắt buộc phải install thư viện này trước:
-Có thể install thư viện này bằng cách gõ câu lệnh sau trong command line:
+This game is written by Python. If you want to play it, you have to download Python
+Then open the commandline and type the command below.
 
           pip install pygame
+          python main.py
 
-Chúc mọi người chơi game vui vẻ. Nếu muốn publish game này thành một file exe thì có thể sử dụng thư viện cx_Freeze để convert sang file exe
+Enjoy the game. I use cx_freeze to transform .py to .exe
 
-Đường link để tải file exe của game: https://drive.google.com/file/d/13DXdbXyphLt_l4GWGF7JiYJsxV16lQ3S/view?usp=sharing
+Download the game without installing Python: https://drive.google.com/file/d/13DXdbXyphLt_l4GWGF7JiYJsxV16lQ3S/view?usp=sharing
 
 
